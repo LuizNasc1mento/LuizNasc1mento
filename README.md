@@ -5,7 +5,7 @@
 Atualmente no 4º semestre de Análise e Desenvolvimento de Sistemas, com foco técnico em desenvolvimento Full Stack. Dedico-me ao estudo da arquitetura de sistemas e à implementação de interfaces responsivas e escaláveis.
 
 - 🎓 *Formação:* Tecnólogo em ADS (Previsão de conclusão: 2027).
-- ⚙️ *Stack Principal:* JavaScript (Node.js), HTML5, CSS3 e fundamentos de Java (Spring Boot).
+- ⚙️ *Stack Principal:* JavaScript (Node.js), HTML5, CSS3 
 - 🌍 *Idiomas:* Inglês nível Básico/Intermediário (A2/B1).
 - 🚀 *Foco Técnico:* Arquitetura de APIs, Manipulação de DOM e Banco de Dados SQL.
 
